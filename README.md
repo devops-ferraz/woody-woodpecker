@@ -2,14 +2,11 @@
 
 🚀 This is a starter template for a React project with TypeScript, Vite, ShadcnUi, and Tailwind CSS.
 
-## Table of Contents
+## Essential Documentation
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [ShadcnUi](https://ui.shadcn.com/)
+- [ShadcnUi, Installation Vite](https://ui.shadcn.com/docs/installation/vite)
+- [ShadcnUi, Components](https://ui.shadcn.com/docs/components)
 
 ## Project Overview
 
