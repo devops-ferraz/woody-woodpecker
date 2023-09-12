@@ -1,3 +1,10 @@
+import { Button } from "./components/ui/button";
+
 export function App() {
-  return <h1>devops.ferraz</h1>;
+  return (
+    <>
+      <Button>devops.ferraz</Button>
+      <Button>devops.frz</Button>
+    </>
+  );
 }
