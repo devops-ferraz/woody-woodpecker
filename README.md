@@ -4,9 +4,9 @@
 
 ## Essential Documentation
 
-- [ShadcnUi](https://ui.shadcn.com/)
-- [ShadcnUi, Installation Vite](https://ui.shadcn.com/docs/installation/vite)
-- [ShadcnUi, Components](https://ui.shadcn.com/docs/components)
+- [Shadcn Ui](https://ui.shadcn.com/)
+- [Lucide React](https://lucide.dev/)
+- [Tailwind Css](https://tailwindcss.com/docs)
 
 ## Project Overview
 
