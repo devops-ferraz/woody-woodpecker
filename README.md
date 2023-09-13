@@ -35,8 +35,8 @@
 1. **Clone the repository**:
 
 ```bash
-   git clone https://github.com/your-username/your-project.git
-   cd your-project
+   git clone https://github.com/devops-ferraz/woody-woodpecker.git
+   cd woody-woodpecker
 ```
 
 2. **Install dependencies:**:
@@ -56,6 +56,7 @@
 
 ```bash
   pnpm dev
+  pnpm component your-component
   pnpm build
   pnpm lint
   pnpm preview
